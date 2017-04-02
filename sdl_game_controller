@@ -1,0 +1,2 @@
+// add sdl game controller mappings to this file
+20380900000000000000504944564944,8Bitdo NES30 PRO Wireless,a:b1,b:b0,x:b4,y:b3,back:b10,start:b11,leftstick:b13,rightstick:a4,leftshoulder:a5,rightshoulder:b9,dpup:h0.1,dpdown:h0.0,dpleft:h0.8,dpright:h0.2,leftx:a0,lefty:a1,rightx:a2,righty:a3,lefttrigger:b8,platform:Windows,
